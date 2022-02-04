@@ -1,0 +1,2 @@
+# BSE5304
+BSE 5304 Class Code
